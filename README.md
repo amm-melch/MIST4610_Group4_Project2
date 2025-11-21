@@ -53,14 +53,17 @@ The data set we selected on energy consumption is important because it helps us 
 - These results would provides actionable insights for grid designers that could improve reliability and support planning/investment.
 
 Fossil Fuels:
+
 <img width="350" height="304" alt="Screenshot 2025-11-21 at 2 03 06 PM" src="https://github.com/user-attachments/assets/599f51d2-53a6-47f8-ba90-54b63a6ab98f" />
 <img width="334" height="307" alt="Screenshot 2025-11-21 at 2 03 40 PM" src="https://github.com/user-attachments/assets/d8055240-45ce-4846-b595-c25192323cfe" />
 
 Nuclear:
+
 <img width="337" height="326" alt="Screenshot 2025-11-21 at 2 04 04 PM" src="https://github.com/user-attachments/assets/b3bb7300-09a6-4bed-a216-3a531971711d" />
 <img width="339" height="325" alt="Screenshot 2025-11-21 at 2 04 25 PM" src="https://github.com/user-attachments/assets/11dce790-c8ca-4a19-b958-3e8aa66d92ed" />
 
 Renewable:
+
 <img width="366" height="306" alt="Screenshot 2025-11-21 at 2 04 45 PM" src="https://github.com/user-attachments/assets/4f083344-f8e9-4d07-9492-e39aff22c48e" />
 <img width="321" height="307" alt="Screenshot 2025-11-21 at 2 05 00 PM" src="https://github.com/user-attachments/assets/d2105860-2a44-4a40-aa8c-630d3981014e" />
 
