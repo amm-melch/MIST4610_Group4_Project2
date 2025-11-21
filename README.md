@@ -41,6 +41,7 @@ It contains columns corresponding to the following items:
 ### Which month experiences the highest/lowest rate of consumption by energy source?
 
 *This question is important because it helps us understand…*
+
 At what point is the energy grid used most?
 At what point is the energy grid used the least?
 How do renewables different from traditional sources in month by month consumption. 
@@ -63,7 +64,8 @@ Renewables usage peaks in the summer months which shows the importance of solar 
 ## Question 2
 ### What is the predicted percentage of each energy consumption type out of total energy consumption in the next 10 years?
 
-This questions is important because it helps us understand…
+*This questions is important because it helps us understand…*
+
 How the energy mix will look in the next decade
 Identify which energy types are expected to increase/decrease
 Reveal how dependent we are on non-renewable energy sources 
